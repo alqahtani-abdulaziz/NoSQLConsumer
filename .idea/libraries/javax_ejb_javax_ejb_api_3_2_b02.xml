@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javax.ejb:javax.ejb-api:3.2-b02" type="repository">
+    <properties maven-id="javax.ejb:javax.ejb-api:3.2-b02" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb-api-3.2-b02.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.xml.rpc-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction-api-1.2-b01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
